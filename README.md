@@ -1,2 +1,2 @@
 # Language-Detection-using-NLP
-It is a ML program which uses NLP (Natural Language Processing) technique to predict the given Language. This program can predict up to 17 different Languages with accuracy upto 97%.
+This machine learning application utilizes advanced Natural Language Processing techniques to predict various languages with a high level of accuracy, achieving a precision rate of up to 97% across 17 different language categories
